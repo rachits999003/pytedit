@@ -38,7 +38,7 @@ class Editor:
         # Create prompt_toolkit components
         self.text_buffer = Buffer(
             multiline=True, 
-            read_only=True  # We'll handle editing ourselves
+            #read_only=True  # We'll handle editing ourselves
         )
         
         # Create the layout
