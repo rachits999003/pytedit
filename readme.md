@@ -1,5 +1,5 @@
 
-[![PyPI version](https://badge.fury.io/py/your-package-name.svg)](https://pypi.org/project/pytedit/)
+[![PyPI version](https://badge.fury.io/py/pytedit.svg)](https://pypi.org/project/pytedit/)
 # PyTEdit
 
 A lightweight, fast, terminal-based text editor library for Python. PyTEdit provides a modular and extensible framework for building terminal text editors, similar to `nano` or `micro`, but with modern Python features.
