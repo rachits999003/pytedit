@@ -81,7 +81,9 @@ PyTEdit is built around these core components:
 
 ## add this to resume
 
-- Built **PyTEdit**, a modular terminal text editor in Python with a reusable `TextBuffer` + `prompt_toolkit` architecture, implementing file I/O, keyboard-driven editing/navigation, and unit-tested core editing behavior.
+Project name									Timeline
+- PyTEdit (open-source Python terminal text editor): Ongoing
+- Core contribution: Built a modular `TextBuffer` + `prompt_toolkit` editor architecture with file I/O, keyboard-driven editing/navigation, and unit-tested core behavior.
 
 ## Contributing
 
