@@ -79,6 +79,10 @@ PyTEdit is built around these core components:
 - Multiple file buffers
 - Split-screen editing
 
+## add this to resume
+
+- Built **PyTEdit**, a modular terminal text editor in Python with a reusable `TextBuffer` + `prompt_toolkit` architecture, implementing file I/O, keyboard-driven editing/navigation, and unit-tested core editing behavior.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
